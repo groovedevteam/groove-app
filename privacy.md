@@ -4,7 +4,7 @@
 
 This Privacy Policy describes how **Groove** ("we", "our", or "the app") handles your personal data when you use our mobile application. We are committed to protecting your privacy and ensuring transparency regarding any data processed.
 
-The data controller responsible for your personal data is **[Nome Cognome / Ragione Sociale]** ("we", "us"). For any privacy-related request, see Section 9 below.
+The data controller responsible for your personal data is **Matteo Alberto D'Andrade** ("we", "us"). For any privacy-related request, see Section 9 below.
 
 ---
 

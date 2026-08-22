@@ -19,7 +19,7 @@ Certain features of Groove may require an auto-renewing subscription or in-app p
 
 ### 3. Developer Contact
 If you have any questions, complaints, or feedback regarding Groove, please contact:
-* **Email:** grooveapp.team@gmail.com
+* **Email:** groove.dev.team@gmail.com
 
 ---
 
